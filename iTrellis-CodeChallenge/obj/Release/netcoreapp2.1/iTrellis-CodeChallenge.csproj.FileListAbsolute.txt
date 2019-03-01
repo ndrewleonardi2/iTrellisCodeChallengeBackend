@@ -1,0 +1,15 @@
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\obj\Release\netcoreapp2.1\iTrellis-CodeChallenge.csprojAssemblyReference.cache
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\obj\Release\netcoreapp2.1\iTrellis-CodeChallenge.csproj.CoreCompileInputs.cache
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\bin\Release\netcoreapp2.1\iTrellis-CodeChallenge.deps.json
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\bin\Release\netcoreapp2.1\iTrellis-CodeChallenge.runtimeconfig.json
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\bin\Release\netcoreapp2.1\iTrellis-CodeChallenge.runtimeconfig.dev.json
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\bin\Release\netcoreapp2.1\iTrellis-CodeChallenge.dll
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\bin\Release\netcoreapp2.1\iTrellis-CodeChallenge.pdb
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\obj\Release\netcoreapp2.1\iTrellis-CodeChallenge.RazorAssemblyInfo.cache
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\obj\Release\netcoreapp2.1\iTrellis-CodeChallenge.RazorAssemblyInfo.cs
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\obj\Release\netcoreapp2.1\iTrellis-CodeChallenge.AssemblyInfoInputs.cache
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\obj\Release\netcoreapp2.1\iTrellis-CodeChallenge.AssemblyInfo.cs
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\obj\Release\netcoreapp2.1\iTrellis-CodeChallenge.RazorTargetAssemblyInfo.cache
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\obj\Release\netcoreapp2.1\iTrellis-CodeChallenge.dll
+c:\users\andrew\source\repos\iTrellis-CodeChallenge\iTrellis-CodeChallenge\obj\Release\netcoreapp2.1\iTrellis-CodeChallenge.pdb
